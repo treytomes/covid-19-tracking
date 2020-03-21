@@ -1,0 +1,36 @@
+county,date,num_cases
+Bell,3/20/2020,2
+Bexar,3/20/2020,12
+Bowie,3/20/2020,1 
+Brazoria,3/20/2020,3
+Brazos,3/20/2020,2 
+Cameron,3/20/2020,1
+Collin,3/20/2020,12
+Crane,3/20/2020,1
+Dallas,3/20/2020,22
+Denton,3/20/2020,6
+DeWitt,3/20/2020,1
+El Paso,3/20/2020,3
+Ellis,3/20/2020,2
+Fannin,3/20/2020,1
+Fort Bend,3/20/2020,11
+Galveston,3/20/2020,4
+Gregg,3/20/2020,1
+Harris,3/20/2020,24
+Hays,3/20/2020,4
+Hockley,3/20/2020,1
+Johnson,3/20/2020,2
+Lavaca,3/20/2020,1
+Lubbock,3/20/2020,1
+Matagorda,3/20/2020,3
+McLennan,3/20/2020,7
+Medina,3/20/2020,1 
+Montgomery,3/20/2020,4
+Rusk,3/20/2020,1 
+Smith,3/20/2020,5
+Tarrant,3/20/2020,5
+Travis,3/20/2020,21
+Webb,3/20/2020,1
+Wichita,3/20/2020,1
+Williamson,3/20/2020,8
+Pending County Assignment,3/20/2020,19
